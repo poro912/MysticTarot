@@ -1,0 +1,23 @@
+{
+  "server" :{
+    "ip":"8.8.8.8",
+    "port":8080
+  },
+  "fileServer":{
+    "url":"https://github.com/poro912/TarotApp",
+    "cards":"cards/",
+    "languages":"languages/"
+  },
+  "loginServer":{
+    "ip":"8.8.8.8",
+    "port":8080
+  },
+
+  "defaultData":{
+    "languages":"languages/en.po",
+    "card":{
+      "name":"Universal Waite",
+      "url":"https://github.com/poro912/TarotApp/cards/Universal Waite.zip"
+    }
+  }
+}
